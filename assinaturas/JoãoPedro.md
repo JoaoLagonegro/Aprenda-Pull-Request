@@ -1,6 +1,6 @@
-Nome: Fulano da Silva
+Nome: João Pedro Lagonegro 
 
-Comida favorita: Pipoca
+Comida favorita: hamburguer
 
 Localidade: São Paulo -SP
 
